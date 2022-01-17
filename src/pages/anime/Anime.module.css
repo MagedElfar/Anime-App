@@ -1,0 +1,22 @@
+.img img{
+    height: 350px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.info{
+    min-width: 170px;
+    margin-right: 20px;
+}
+
+.info > div{
+    text-align: center;
+}
+
+.boldnum{
+    font-size: 35px;
+}
+
+.smallnum{
+    font-size: 12px;
+}
